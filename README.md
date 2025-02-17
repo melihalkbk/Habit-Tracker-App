@@ -40,7 +40,7 @@ Here are some screenshots of the app:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/Habit-Tracker-App.git
+   git clone https://github.com/melihalkbk/Habit-Tracker-App.git
    cd Habit-Tracker-App
    ```
 
